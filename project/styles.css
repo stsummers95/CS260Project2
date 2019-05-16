@@ -1,0 +1,30 @@
+html {
+  background-color: #b3c6ff;
+}
+
+h1 {
+  text-align: center;
+  background-color: #00134d;
+  color: #ffcc00;
+  font-size: 48px;
+}
+
+#score {
+  text-align: center;
+}
+
+.correct {
+  color:#33cc33;
+}
+
+.wrong {
+  color: #ff3300
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: hsl(300, 60%, 80%);
+  font-size: 24px;
+}
